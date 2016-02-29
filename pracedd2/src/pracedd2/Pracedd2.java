@@ -19,6 +19,7 @@ public class Pracedd2 {
     	System.out.println("1 desde eclipse");
         System.out.println("2 desde netbeans");
         System.out.println("3 desde eclipse");
+        System.out.println("canvi en copiantb");
         
     }
     
