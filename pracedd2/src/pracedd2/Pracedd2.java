@@ -17,6 +17,7 @@ public class Pracedd2 {
     public static void main(String[] args) {
         // TODO code application logic here
     	System.out.println("1 desde eclipse");
+        System.out.println("2 desde netbeans");
     }
     
 }
