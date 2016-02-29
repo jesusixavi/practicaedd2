@@ -22,6 +22,7 @@ public class Pracedd2 {
         System.out.println("canvi en copiantb");
         System.out.println("canvi 2 en copiantb");
         System.out.println("canvi 1 en copia eclipse");
+        System.out.println("canvi 2 en copia eclipse");
         
         
     }
